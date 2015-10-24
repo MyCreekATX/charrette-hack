@@ -16,6 +16,8 @@ Here is some general info and resource to help with the project.
 - [Friends of Boggy Creek Blog](http://friendsofboggy.blogspot.com/)
 - [Adopt-a-Creek - Keep Austin Beautiful](http://keepaustinbeautiful.org/programs/adopt-creek)
 - [Austin Youth River Watch](http://riverwatchers.org/)
+- [Find Your Watershed](http://www.austintexas.gov/GIS/FindYourWatershed/)
+
 
 ### Data Sources
 - [USGS Creek Flow Data (_search by county_)](http://waterdata.usgs.gov/tx/nwis/current/?type=flow&group_key=county_cd&site_no_name_slect=station_nm)
@@ -26,9 +28,14 @@ Here is some general info and resource to help with the project.
 - [CoA List of "Environmental" Datasets (_Socrata Data Portal_)](https://data.austintexas.gov/browse?category=Environmental&utf8=%E2%9C%93)
 - [CoA Watershed Protection List of Datasets (_Socrata Data Portal_)](https://data.austintexas.gov/browse?Additional-Information_Department=Watershed+Protection&utf8=%E2%9C%93)
 - [CoA Austin Water List of Datasets (_Socrata Data Portal_)](https://data.austintexas.gov/browse?Additional-Information_Department=Austin+Water&utf8=%E2%9C%93)
+- [COA Watershed Protection EII Sampling Locations (_Socrata Data Portal_)](https://data.austintexas.gov/Environmental/Environmental-Integrity-Index-2014-2015-Sampling-L/fq6s-pigi)
+- [COA Watershed Protection All Sampling Locations (_Socrata Data Portal_)](https://data.austintexas.gov/Environmental/Water-Quality-Sampling-Locations/t9gx-rxwg)
+- [COA Watershed Protection EII Scores Spatial (_Socrata Data Portal_)](https://data.austintexas.gov/Environmental/Watershed-Reach-Integrity-Scores/xnw2-4z4z)
+- [COA Watershed Protection EII Scores Tabular (_Socrata Data Portal_)](https://data.austintexas.gov/Environmental/Watershed-Reach-Index-and-Problem-Scores/vk3r-6prc)
+- [COA Watershed Protection Recharge Zone - crucial to understanding disappearing flow in Barton Creek downstream of Hill of Life (_Socrata Data Portal_)](https://data.austintexas.gov/Environmental/Recharge-Zones/fkk6-3s95)
 - [MyCreekATX Raw Cultural/Social Value Data (_survey data_)](https://docs.google.com/spreadsheets/d/1MGOipHCvQcpLbjfCBBpuMfm0ZqRdwmF9oxII79dMbDI/edit?usp=sharing)
 - [Texas Commission on Environmental Quality](https://www.tceq.texas.gov/waterquality/monitoring/cwqmn-data-links)
+
+
+
 - Social media (images, comments, and video pulled for each creek's hashtag)
-
-
-
