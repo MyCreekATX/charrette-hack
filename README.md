@@ -35,7 +35,4 @@ Here is some general info and resource to help with the project.
 - [COA Watershed Protection Recharge Zone - crucial to understanding disappearing flow in Barton Creek downstream of Hill of Life (_Socrata Data Portal_)](https://data.austintexas.gov/Environmental/Recharge-Zones/fkk6-3s95)
 - [MyCreekATX Raw Cultural/Social Value Data (_survey data_)](https://docs.google.com/spreadsheets/d/1MGOipHCvQcpLbjfCBBpuMfm0ZqRdwmF9oxII79dMbDI/edit?usp=sharing)
 - [Texas Commission on Environmental Quality](https://www.tceq.texas.gov/waterquality/monitoring/cwqmn-data-links)
-
-
-
 - Social media (images, comments, and video pulled for each creek's hashtag)
